@@ -14,10 +14,12 @@ This is a simple, yet modern and responsive To-Do List application built using H
 
 ## How to Run the Project
 1. Clone this repository to your local machine.
+`git clone https://github.com/segunjacobb/To-Do-App-.git`
 2. Open the `index.html` file in your web browser.
 3. Start adding, editing, and managing your tasks!
 
-Alternatively, you can view the live version of this project at [insert your Netlify/Vercel link here].
+Alternatively, you can view the live version of this project at 
+`https://to-do-app-sable-rho.vercel.app/`.
 
 ## Development
 If you want to make changes to the project:

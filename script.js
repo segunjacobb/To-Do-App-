@@ -30,7 +30,9 @@ document.addEventListener("DOMContentLoaded", () => {
         tasks.push(newTask)
         taskInput.value = ""
         renderTasks()
-      }
+      }else {
+        alert("Please enter a task")
+    }
     }
   
     window.editTask = (index) => {
